@@ -74,10 +74,6 @@ A list of commonly used resources that I find helpful are listed in the acknowle
         └── y5.jpg
 ```
 <!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
@@ -98,30 +94,7 @@ Create a virtualenv. (optional)
    pip install -r requirements.txt
    ```
 <!-- USAGE EXAMPLES -->
-## Usage
 
-Now run the app.py file by typing following command 
-```sh
-   python app.py
-   ```
-_For more examples, please refer to the [Documentation](#)_
-
-
-
-## About Contribution :
-* Raise the `issue` .
-* Work on raised issues .
-* Come up with interesting Medical related problems and solutions .
-* You can improve the UI/UX .
-* Can contribute on readme files as well .
-
-## Package Guidelines
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed information.
-
-## License
-
-See [LICENSE](LICENSE) file.
 
 
                           "What we know is a drop, what we don't know is an ocean."
