@@ -87,7 +87,7 @@ Create a virtualenv. (optional)
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans/](https://github.com/Gavz369/Brain-tumor-Detection)
+   git clone https://github.com/Gavz369/Brain-tumor-Detection)
    ```
 2. Install required libraries
    ```sh
