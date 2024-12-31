@@ -1,7 +1,7 @@
 # Brain_Tumour_detection_using_MRI_Scans
 ---
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray)
-[![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/kanishksh4rma/Coronavirus_Detection_using_Chest_X_ray)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/Gavz369/Brain-tumor-Detection)
+[![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/Gavz369/Brain-tumor-Detection)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -102,5 +102,5 @@ Create a virtualenv. (optional)
 
 ---
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Brain_Tumour_detection_using_MRI_Scans)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Gavz369/Brain-tumor-Detection)
 
